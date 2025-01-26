@@ -25,35 +25,36 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  - <a href="https://www.instagram.com/anusrkive/" target="_blank" rel="noopener noreferrer"> Instagram
+  
+  - <a href="https://www.instagram.com/anusrkive/" target="_blank" rel="noopener noreferrer"> Instagram  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anusrkive" height="30" width="40" /> 
   </a>
   
-  - <a href="https://www.linkedin.com/in/anu7hka/" target="_blank" rel="noopener noreferrer"> LinkedIn
+  - <a href="https://www.linkedin.com/in/anu7hka/" target="_blank" rel="noopener noreferrer"> LinkedIn  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anu7hka" height="30" width="40" /> 
   </a>
   
- - <a href="https://www.codechef.com/users/anu7hka" target="_blank" rel="noopener noreferrer"> CodeChef
+ - <a href="https://www.codechef.com/users/anu7hka" target="_blank" rel="noopener noreferrer"> CodeChef  
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anu7hka" height="30" width="40" /> 
   </a>
   
- - <a href="https://www.leetcode.com/anu7hka/" target="_blank" rel="noopener noreferrer"> LeetCode
+ - <a href="https://www.leetcode.com/anu7hka/" target="_blank" rel="noopener noreferrer"> LeetCode  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anu7hka" height="30" width="40" /> 
   </a>
   
-  - <a href="https://www.geeksforgeeks.com/anu7hka/" target="_blank" rel="noopener noreferrer"> GeeksForGeeks
+  - <a href="https://www.geeksforgeeks.com/anu7hka/" target="_blank" rel="noopener noreferrer"> GeeksForGeeks  
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="anu7hka" height="30" width="40" /> 
   </a>
   
- - <a href="https://www.hackerrank.com/anu7hka/" target="_blank" rel="noopener noreferrer"> HackerRank
+ - <a href="https://www.hackerrank.com/anu7hka/" target="_blank" rel="noopener noreferrer"> HackerRank  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anu7hka" height="30" width="40" /> 
   </a>
   
- - <a href="https://codeforces.com/profile/anu7hka" target="_blank" rel="noopener noreferrer"> Codeforces
+ - <a href="https://codeforces.com/profile/anu7hka" target="_blank" rel="noopener noreferrer"> Codeforces  
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anu7hka" height="30" width="40" />
   </a>
   
- - <a href="https://www.codolio.com/profile/anu7hka/" target="_blank" rel="noopener noreferrer"> Codolio
+ - <a href="https://www.codolio.com/profile/anu7hka/" target="_blank" rel="noopener noreferrer"> Codolio  
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webmoney.svg" alt="anu7hka" height="30" width="40" />
   </a>
 
