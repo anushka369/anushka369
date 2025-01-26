@@ -53,7 +53,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anu7hka" height="30" width="40" />
   </a>
   
-  <a href="https://www.codolio.com/profile/anu7hka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webmoney.svg" alt="anu7hka" height="30" width="40" />
+  <a href="https://www.codolio.com/profile/anu7hka/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/webmoney.svg" alt="anu7hka" height="30" width="40" />
   </a>
 
 </p>
