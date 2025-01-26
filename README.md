@@ -95,14 +95,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 
----
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka369&show_icons=true&locale=en&layout=compact" alt="anushka369" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en" alt="anushka369" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&" alt="anushka369" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en" alt="anushka369" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&" alt="anushka369" width="48%" />
+</p>
 
 ---
