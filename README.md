@@ -5,11 +5,11 @@
 
 - 🔭 I solve daily **competitive programming challenges** on platforms like **LeetCode, CodeChef, HackerRank and Codeforces**.
 
-- 🌱 I’m currently learning about **Advanced DSA Concepts**
+- 🌱 I’m currently learning about **Advanced DSA Concepts** and **RDBMS using MySQL**.
 
-- 👩‍💻 All of my projects are available at [My GitHub Repositories](https://www.github.com/anushka369/)
+- 👩‍💻 All of my projects are available at [My GitHub Repositories](https://www.github.com/anushka369/).
 
-- 📫 How to reach me **ab8991@srmist.edu.in**
+- 📫 How to reach me: **ab8991@srmist.edu.in**.
   
 - 😄 Pronouns: she / her
   
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about insights on being a B.Tech CSE student or **learning tips for undergrads**.
 
-- ⚡ Fun fact: **I've been a Bharatanatyam dancer for 8 years!**
+- ⚡ Fun fact: I've been a Bharatanatyam dancer for 8 years!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
