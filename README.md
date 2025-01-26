@@ -24,7 +24,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="text-decoration: none">
   
   - <a href="https://www.instagram.com/anusrkive/" target="_blank" rel="noopener noreferrer"> Instagram 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anusrkive" height="30" width="40" /> 
