@@ -13,11 +13,11 @@
   
 - 😄 Pronouns: she / her
   
-- 👯 I’m looking to collaborate on open-source projects in Web Development using MERN Stack.
+- 👯 I’m looking to collaborate on **open-source projects** in **Web Development** using **MERN Stack**.
 
-- 🤔 I’m looking for help with optimizing DSA solutions for time and space complexity.
+- 🤔 I’m looking for help with **optimizing DSA solutions** for **time and space complexity**.
 
-- 💬 Ask me about insights on being a B.Tech CSE student or learning tips for undergrads.
+- 💬 Ask me about insights on being a B.Tech CSE student or **learning tips for undergrads**.
 
 - ⚡ Fun fact: **I've been a Bharatanatyam dancer for 8 years!**
 
