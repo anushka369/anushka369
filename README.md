@@ -97,13 +97,12 @@
   </a>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka369&show_icons=true&locale=en&layout=compact" alt="anushka369" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka369&show_icons=true&locale=en&layout=compact&theme=default" alt="anushka369" /></p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&theme=dark&hide_border=true" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&theme=default&hide_border=true" /></p>
 
 ---
