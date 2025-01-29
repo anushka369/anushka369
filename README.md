@@ -103,8 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&theme=dark&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=anushka369&show_icons=true&locale=en&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka369&theme=default&hide_border=true" /></p>
 
 ---
