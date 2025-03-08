@@ -5,7 +5,7 @@
 
 - 🔭 I solve **daily competitive programming challenges** on platforms like **LeetCode, CodeChef, HackerRank, Codeforces**.
 
-- 🌱 I’m currently learning **React.js**, **Express.js**, **Node.js** , **DSA Concepts** and **RDBMS using MySQL**.
+- 🌱 I’m currently learning **React.js**, **Express.js**, **Node.js**, **DSA Concepts** and **RDBMS using MySQL**.
 
 - 👩‍💻 All of my projects are available at [My GitHub Repositories](https://www.github.com/anushka369/).
 
