@@ -5,7 +5,7 @@
 
 - 🔭 I solve **daily competitive programming challenges** on platforms like **LeetCode, CodeChef, HackerRank, Codeforces**.
 
-- 🌱 I’m currently learning about **Advanced DSA Concepts** and **RDBMS using MySQL**.
+- 🌱 I’m currently learning **React.js**, **Express.js**, **Node.js** , **DSA Concepts** and **RDBMS using MySQL**.
 
 - 👩‍💻 All of my projects are available at [My GitHub Repositories](https://www.github.com/anushka369/).
 
@@ -13,13 +13,13 @@
   
 - 😄 Pronouns: she / her
   
-- 👯 I’m looking to collaborate on **open-source projects** in **Web Development** using **MERN Stack**.
+- 👯 I’m looking to collaborate on **open-source projects** in **Full Stack Development** using **MERN Stack**.
 
 - 🤔 I’m looking for help with **optimizing DSA solutions** for **time and space complexity**.
 
-- 💬 Ask me about insights on being a B.Tech CSE student or **learning tips for undergrads**.
+- 💬 Ask me about insights on being a B.Tech CSE student or **learning tips for undergraduates**.
 
-- ⚡ Fun fact: I've been a Bharatanatyam dancer for 8 years!
+- ⚡ **Fun fact:** I've been a Bharatanatyam dancer for 8 years!
 
 ---
 
