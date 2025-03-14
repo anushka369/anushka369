@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka369&label=Profile%20views&color=0e75b6&style=flat" alt="anushka369" /> </p>
 
-- 🔭 I solve **daily competitive programming challenges** on platforms like **LeetCode, CodeChef, HackerRank, Codeforces**.
+- 🔭 I solve **daily competitive programming challenges** on platforms like **LeetCode, CodeChef, HackerRank, GeeksForGeeks**.
 
 - 🌱 I’m currently learning **React.js**, **Express.js**, **Node.js**, **DSA Concepts** and **RDBMS using MySQL**.
 
