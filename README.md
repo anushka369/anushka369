@@ -13,7 +13,7 @@
   
 - 😄 Pronouns: she / her
   
-- 👯 I’m looking to collaborate on **open-source projects** in **Full Stack Development** using **MERN Stack**.
+- 👯 I’m looking to collaborate on **open-source projects** in **Full Stack Development**.
 
 - 🤔 I’m looking for help with **optimizing DSA solutions** for **time and space complexity**.
 
